@@ -8,4 +8,4 @@ description: Contact
 
 **Reach out today!**
 
-[![MailTo](/images/social/email-colour.png)](mailto:enquiries@data-savvy-solutions.com) [![LinkedIn](/images/social/linkedin-colour-large.png)](https://www.linkedin.com/in/pbudden/) [![GitHub](/images/social/github-colour.png)](https://github.com/data-savvy-solutions)
+[![MailTo](/images/social/email-colour.png)](mailto:enquiries@data-savvy-solutions.com) [![LinkedIn](/images/social/linkedin-colour-large.png)](https://www.linkedin.com/company/data-savvy-solutions/) [![GitHub](/images/social/github-colour.png)](https://github.com/data-savvy-solutions)

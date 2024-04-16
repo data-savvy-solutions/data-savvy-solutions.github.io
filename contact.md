@@ -4,13 +4,8 @@ layout: contact
 description: Contact
 ---
 
-Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae crimen habet Priamum nec.
+**With Data Savvy Solutions, you aren't just getting a contractor, but a trusted partner invested in your long-term success.**
 
-| Day       | Opening Hours   |
-| --------- | --------------- |
-| Tuesday   | 8:30am - 5:00pm |
-| Wednesday | 8:30am - 5:00pm |
-| Thursday  | 8:30am - 5:00pm |
-| Friday    | 8:30am - 5:00pm |
-| Saturday  | 10:am - 4:00pm  |
-| Saturday  | Closed          |
+**Reach out today!**
+
+[![MailTo](/images/social/email-colour.png)](mailto:enquiries@data-savvy-solutions.com) [![LinkedIn](/images/social/linkedin-colour-large.png)](https://www.linkedin.com/in/pbudden/) [![GitHub](/images/social/github-colour.png)](https://github.com/data-savvy-solutions)

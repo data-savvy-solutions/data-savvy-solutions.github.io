@@ -5,83 +5,43 @@ description: About
 bodyClass: page-about
 ---
 
-Lorem markdownum aequalis strigis. _Saetigeri iubeas_, vultu huic alvum nondum
-de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae
-crimen habet Priamum nec.
+# Phil Budden [![LinkedIn](/images/social/linkedin-colour-small.png)](https://www.linkedin.com/in/pbudden/)
+![Phil Budden](/images/team/phil-budden.jpg)
 
-![Accounting Services](/images/thom-holmes-Lrfw0U_o9I0-unsplash.jpg)
+**An experienced data professional, I've had the opportunity to work across a range of diverse industries, such as technology, healthcare, local government and social housing. This breadth of experience has equipped me with a deep understanding of the unique data challenges and opportunities faced by different sectors, enabling me to offer tailored solutions that drive tangible business outcomes.**
 
-# Objectives
+**With over a decade of hands-on experience in the data domain, I bring a wealth of knowledge, insights, and practical know-how to every project I undertake. Whether it's optimizing data infrastructure, designing and implementing robust data pipelines or architecting scalable data warehouse solutions, I've been involved in every stage of the data life cycle.**
 
-Financial accounting and financial reporting are often used as synonyms.
+**My technical skill set encompasses proficiency in a wide array of tools and technologies, including, but not limited to:**
 
-1. According to International Financial Reporting Standards: the objective of financial reporting is:
-2. To provide financial information that is useful to existing and potential investors, lenders and other creditors in making decisions about providing resources to the reporting entity.
-3. According to the European Accounting Association:
+- **Programming Languages**:
+  - **Python: For data manipulation, scripting, and building data pipelines.**
+  - **SQL: For querying and manipulating relational databases.**
 
-## Relevance
+- **Big Data Frameworks**:
+  - **Apache Hadoop: Distributed storage and processing framework.**
+  - **Apache Spark: In-memory data processing engine for large-scale data processing and analytics.**
 
-Relevance is the capacity of the financial information to influence the decision of its users. The ingredients of relevance are the predictive value and confirmatory value. Materiality is a sub-quality of relevance.
+- **Data Warehousing Solutions**:
+  - **Relational database systems: SQL Server, MySQL, Oracle, PostgreSQL.**
+  - **Apache Hive: Data Warehouse infrastructure built on top of Hadoop.**
+  - **Distributed databases: Apache HBase.**
 
-> The ingredients of relevance are the predictive value and confirmatory value.
+- **Containerization and Orchestration**:
+  - **Docker/Podman: Containerization platforms for packaging and deploying applications.**
+  - **Apache Airflow: Workflow management platform for orchestrating complex data workflows.**
+  - **Low/No-code ETL: Alteryx, Talend.**
 
-Information is considered material if its omission or misstatement could influence the economic decisions of users taken on the basis of the financial statements.
+- **Version Control Systems**:
+  - **Git: Distributed version control system for tracking changes in code and collaborating with team members.**
 
-## Faithful Representation
+**Beyond technical expertise, my role has also involved collaborating closely with cross-functional teams, including Data Scientists, Business Analysts, and Software Engineers. This collaborative approach has been instrumental in delivering holistic data solutions that not only meet technical requirements but also align with broader business objectives.**
 
-Faithful representation means that the actual effects of the transactions shall be properly accounted for and reported in the financial statements. The words and numbers must match what really happened in the transaction. The ingredients of faithful representation are completeness, neutrality and free from error.
+**I believe strongly in supporting the growth and upskilling of any team I work within, whether through formal training sessions, hands-on coaching or peer-to-peer knowledge sharing, I will always ensure my clients are able to take-over development at the end of the engagement**
 
-## Enhancing Qualitative Characteristics
+**I understand that navigating the complexities of Data Engineering projects can be daunting, which is why I strive to provide not only exceptional technical expertise but also valuable advice and guidance throughout our engagement. My commitment to your project's success means that I'll always be there to offer insights, recommendations, and support every step of the way.**
 
-### Verifiability
+**[Let's connect and explore how I can contribute to your data initiatives!](/contact)**
 
-Verifiability implies consensus between the different knowledgeable and independent users of financial information. Such information must be supported by sufficient evidence to follow the principle of objectivity.
 
-### Comparability
 
-Comparability is the uniform application of accounting methods across entities in the same industry. The principle of consistency is under comparability. Consistency is the uniform application of accounting across points in time within an entity.
-
-### Understandability
-
-Understandability means that accounting reports should be expressed as clearly as possible and should be understood by those to whom the information is relevant.
-Timeliness: Timeliness implies that financial information must be presented to the users before a decision is to be made.
-
----
-
-## Statement of cash flows
-
-The statement of cash flows considers the inputs and outputs in concrete cash within a stated period. The general template of a cash flow statement is as follows: Cash Inflow - Cash Outflow + Opening Balance = Closing Balance
-
-| Cash Inflow | Outflow   | Opening Balance |
-| ----------- | --------- | --------------- |
-| _Monday_    | `Tuesday` | **Wednesday**   |
-| 1           | 2         | 3               |
-
-**Example 1:** in the beginning of September, Ellen started out with $5 in her bank account. During that same month, Ellen borrowed $20 from Tom. At the end of the month, Ellen bought a pair of shoes for $7. Ellen's cash flow statement for the month of September looks like this:
-
-- Cash inflow: $20
-- Cash outflow:$7
-- Opening balance: $5
-- Closing balance: $20 – $7 + $5 = $18
-
-**Example 2:** in the beginning of June, WikiTables, a company that buys and resells tables, sold 2 tables. They'd originally bought the tables for $25 each, and sold them at a price of $50 per table. The first table was paid out in cash however the second one was bought in credit terms. WikiTables' cash flow statement for the month of June looks like this:
-
-> **Important:** the cash flow statement only considers the exchange of actual cash, and ignores what the person in question owes or is owed.
-
-## Statement of financial position (balance sheet)
-
-The balance sheet is the financial statement showing a firm's assets, liabilities and equity (capital) at a set point in time, usually the end of the fiscal year reported on the accompanying income statement.
-
-- **fixed assets**
-  - property
-  - building
-  - equipment (such as factory machinery)
-- **intangible assets**
-  - copyrights
-  - trademarks
-  - patents
-    - pending
-    - international
-- goodwill
-
-Owner's equity, sometimes referred to as net assets, is represented differently depending on the type of business ownership. Business ownership can be in the form of a sole proprietorship, partnership, or a corporation. For a corporation, the owner's equity portion usually shows common stock, and retained earnings (earnings kept in the company). Retained earnings come from the retained earnings statement, prepared prior to the balance sheet.

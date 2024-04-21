@@ -8,38 +8,48 @@ bodyClass: page-about
 # Phil Budden [![LinkedIn](/images/social/linkedin-colour-small.png)](https://www.linkedin.com/in/pbudden/)
 ![Phil Budden](/images/team/phil-budden.jpg)
 
-**An experienced data professional, I've had the opportunity to work across a range of diverse industries, such as technology, healthcare, local government and social housing. This breadth of experience has equipped me with a deep understanding of the unique data challenges and opportunities faced by different sectors, enabling me to offer tailored solutions that drive tangible business outcomes.**
+An experienced data professional, I've had the opportunity to work across a range of diverse industries, such as technology, healthcare, local government and social housing. This breadth of experience has equipped me with a deep understanding of the unique data challenges and opportunities faced by different sectors, enabling me to offer tailored solutions that drive tangible business outcomes.
 
-**With over a decade of hands-on experience in the data domain, I bring a wealth of knowledge, insights, and practical know-how to every project I undertake. Whether it's optimizing data infrastructure, designing and implementing robust data pipelines or architecting scalable data warehouse solutions, I've been involved in every stage of the data life cycle.**
+With over a decade of hands-on experience in the data domain, I bring a wealth of knowledge, insights, and practical know-how to every project I undertake. Whether it's optimizing data infrastructure, designing and implementing robust data pipelines or architecting scalable data warehouse solutions, I've been involved in every stage of the data life cycle.
 
-**My technical skill set encompasses proficiency in a wide array of tools and technologies, including, but not limited to:**
+My technical skill set encompasses proficiency in a wide array of tools and technologies, including, but not limited to:
 
-- **Programming Languages**:
-  - **Python: For data manipulation, scripting, and building data pipelines.**
-  - **SQL: For querying and manipulating relational databases.**
+###### Programming Languages:
+  - Python
+  - SQL
 
-- **Big Data Frameworks**:
-  - **Apache Hadoop: Distributed storage and processing framework.**
-  - **Apache Spark: In-memory data processing engine for large-scale data processing and analytics.**
+###### Big Data Frameworks:
+  - Apache Hadoop
+  - Apache Spark
 
-- **Data Warehousing Solutions**:
-  - **Relational database systems: SQL Server, MySQL, Oracle, PostgreSQL.**
-  - **Apache Hive: Data Warehouse infrastructure built on top of Hadoop.**
-  - **Distributed databases: Apache HBase.**
+###### Data Warehousing Solutions:
+  - SQL Server
+  - MySQL
+  - Oracle
+  - PostgreSQL
+  - Apache Hive
 
-- **Containerization and Orchestration**:
-  - **Docker/Podman: Containerization platforms for packaging and deploying applications.**
-  - **Apache Airflow: Workflow management platform for orchestrating complex data workflows.**
-  - **Low/No-code ETL: Alteryx, Talend.**
+###### Distributed databases:
+  - Apache HBase
 
-- **Version Control Systems**:
-  - **Git: Distributed version control system for tracking changes in code and collaborating with team members.**
+###### Containerization:
+  - Docker/Podman
 
-**Beyond technical expertise, my role has also involved collaborating closely with cross-functional teams, including Data Scientists, Business Analysts, and Software Engineers. This collaborative approach has been instrumental in delivering holistic data solutions that not only meet technical requirements but also align with broader business objectives.**
+###### Orchestration:
+  - Apache Airflow
 
-**I believe strongly in supporting the growth and upskilling of any team I work within, whether through formal training sessions, hands-on coaching or peer-to-peer knowledge sharing, I will always ensure my clients are able to take-over development at the end of the engagement**
+###### Low/No-code ETL:
+  - Alteryx
+  - Talend
 
-**I understand that navigating the complexities of Data Engineering projects can be daunting, which is why I strive to provide not only exceptional technical expertise but also valuable advice and guidance throughout our engagement. My commitment to your project's success means that I'll always be there to offer insights, recommendations, and support every step of the way.**
+###### Version Control Systems:
+  - Git
+
+Beyond technical expertise, my role has also involved collaborating closely with cross-functional teams, including Data Scientists, Business Analysts, and Software Engineers. This collaborative approach has been instrumental in delivering data solutions that not only meet technical requirements but also align with broader business objectives.
+
+I believe strongly in supporting the growth and upskilling of any team I work within, whether through formal training sessions, hands-on coaching or peer-to-peer knowledge sharing, I will always ensure my clients are able to take-over development at the end of the engagement
+
+I understand that navigating the complexities of Data Engineering projects can be daunting, which is why I strive to provide not only exceptional technical expertise but also valuable advice and guidance throughout our engagement. My commitment to your project's success means that I'll always be there to offer insights, recommendations, and support every step of the way.
 
 **[Let's connect and explore how I can contribute to your data initiatives!](/contact)**
 

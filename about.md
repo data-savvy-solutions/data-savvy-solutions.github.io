@@ -32,7 +32,7 @@ My technical skill set encompasses proficiency in a wide array of tools and tech
 ###### Distributed databases:
   - Apache HBase
 
-###### Containerization:
+###### Containerisation:
   - Docker/Podman
 
 ###### Orchestration:

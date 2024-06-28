@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Full or Part Time Contract",
+    "description": "Contractor works regular office hours for a fixed duration",
+    "link": "contractor",
+    "image": {
+      "url": "images/engagements/contractor.png",
+      "width": 80,
+      "height": 80
+    }
+  },
+  {
+    "title": "Project Based, Hourly Rate",
+    "description": "Contractor delivers a project by an agreed upon deadline, for an hourly rate",
+    "link": "hourly",
+    "image": {
+      "url": "images/engagements/hourly.png",
+      "width": 80,
+      "height": 80
+    }
+  },
+  {
+    "title": "Project Based, Fixed Price",
+    "description": "Contractor delivers a project by an agreed upon deadline, for a fixed price",
+    "link": "fixed",
+    "image": {
+      "url": "images/engagements/fixed-price.png",
+      "width": 80,
+      "height": 80
+    }
+  }
+]

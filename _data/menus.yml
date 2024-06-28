@@ -5,8 +5,8 @@ main:
   - name: "About"
     url: "/about/"
     weight: 3
-  - name: "Services"
-    url: "/services/"
+  - name: "Engagements"
+    url: "/engagements/"
     weight: 4
   - name: "Contact"
     url: "/contact/"

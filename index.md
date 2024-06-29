@@ -15,6 +15,5 @@ show_call_box: false
 }
 </style>
 
-
-<img src="images/logo/logo-text.png" alt="logo" class="responsive-image">
+<img src="images/logo/logo-text-tagline.png" alt="logo" class="responsive-image">
 

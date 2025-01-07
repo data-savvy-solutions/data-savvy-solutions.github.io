@@ -10,6 +10,7 @@ show_call_box: false
 
 <style>
 .responsive-image {
+  max-width: 1140px;
   width: 80vw;
   height: auto;
 }

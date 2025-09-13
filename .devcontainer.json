@@ -1,0 +1,9 @@
+{
+  "name": "website",
+  "image": "mcr.microsoft.com/devcontainers/jekyll:bookworm",
+  "forwardPorts": [4000],
+  "features": {
+    "ghcr.io/devcontainers/features/nix:1": {},
+    "ghcr.io/devcontainers/features/node:1": {}
+  }
+}
